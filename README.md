@@ -1,16 +1,36 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Huynh Dinh Thinh. I am a junior in HCMUTE majoring in Software Engineer. I am interested in the following topics: Java Programming, Web.<br>
+## 📫 How to reach me: 
 
-<!--
-**HdThinh6102git/HdThinh6102git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hdthinh6102/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HdThinh6102git) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/HdThinh6102git/OOADProject">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=OOADProject&theme=merko" />
+</a>
+
+<a href="https://github.com/HdThinh6102git/MotorbikeStoreWebsite/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=MotorbikeStoreWebsite&theme=gruvbox" />
+</a>    
+<a href="https://github.com/HdThinh6102git/ORONUIProject/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=ORONUIProject&theme=dark" />
+</a>
+
+<a href="https://github.com/HdThinh6102git/FruitClassificationAppAndroid/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=FruitClassificationAppAndroid&theme=onedark" />
+</a>    
+<a href="https://github.com/HdThinh6102git/MilkStoreManagementSystemADOdotNet">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=MilkStoreManagementSystemADOdotNet&theme=cobalt" />
+</a>
+
+<a href="https://github.com/HdThinh6102git/musicPlayerWithJS/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=musicPlayerWithJS&theme=synthwave" />
+</a>    
+
