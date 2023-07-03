@@ -4,6 +4,7 @@ My name is Huynh Dinh Thinh. I am a junior in HCMUTE majoring in Software Engine
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hdthinh6102/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HdThinh6102git) 
 
+![Thinh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HdThinh6102git&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
 <a href="https://github.com/HdThinh6102git/OOADProject">
