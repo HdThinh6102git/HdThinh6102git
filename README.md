@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Huynh Dinh Thinh. I am a junior at HCMUTE majoring in Software Engineer. I am interested in the following topics: Java Programming, Web Programming.<br>
+My name is Huynh Dinh Thinh. I am a junior at HCMUTE majoring in Software Engineering. I am interested in the following topics: Java Programming, Web Programming With NodeJS (ExpressJS and NestJS) .<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hdthinh6102/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HdThinh6102git) 
