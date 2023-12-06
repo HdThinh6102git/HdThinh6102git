@@ -33,5 +33,9 @@ My name is Huynh Dinh Thinh. I am a junior at HCMUTE majoring in Software Engine
 <a href="https://github.com/HdThinh6102git/musicPlayerWithJS/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=musicPlayerWithJS&theme=synthwave" />
-</a>    
+</a> 
+<a href="https://github.com/HdThinh6102git/RealTimeRankedChoiceVotingApp">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=RealTimeRankedChoiceVotingApp&theme=dark" />
+</a>
 
