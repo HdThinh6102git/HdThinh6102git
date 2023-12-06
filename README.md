@@ -21,13 +21,13 @@ My name is Huynh Dinh Thinh. I am a junior at HCMUTE majoring in Software Engine
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=ORONUIProject&theme=dark" />
 </a>
 
-<a href="https://github.com/HdThinh6102git/FruitClassificationAppAndroid/">
+<a href="https://github.com/HdThinh6102git/Oron-service">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=FruitClassificationAppAndroid&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=Oron-service&theme=onedark" />
 </a>    
-<a href="https://github.com/HdThinh6102git/MilkStoreManagementSystemADOdotNet">
+<a href="https://github.com/HdThinh6102git/tms-service">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=MilkStoreManagementSystemADOdotNet&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=tms-service&theme=cobalt" />
 </a>
 
 <a href="https://github.com/HdThinh6102git/musicPlayerWithJS/">
