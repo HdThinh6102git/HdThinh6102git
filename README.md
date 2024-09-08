@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-To introduce myself, I am simply someone who loves learning and exploring interesting things. I am currently studying IT, and I aspire to create useful tools that minimize the time spent on daily tasks, both for myself and others, by utilizing the most efficient technologies and methods possible. .<br>
+To introduce myself, I am simply someone who loves learning and exploring interesting things. I am currently studying IT, and I aspire to create useful tools that minimize the time spent on daily tasks, both for myself and others, by utilizing the most efficient technologies and methods possible.<br>
 
 <a href="https://github.com/HdThinh6102git/OOADProject">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
