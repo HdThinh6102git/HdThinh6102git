@@ -18,9 +18,9 @@ To introduce myself, I am simply someone who loves learning and exploring intere
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=tms-service&theme=cobalt" />
 </a>
 
-<a href="https://github.com/HdThinh6102git/SportShop/">
+<a href="https://github.com/HdThinh6102git/Mini_DBMS/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=SportShop&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HdThinh6102git&repo=Mini_DBMS&theme=synthwave" />
 </a> 
 <a href="https://github.com/HdThinh6102git/RealTimeRankedChoiceVotingApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
